@@ -168,6 +168,14 @@ footer{
     font-family: 'Ropa Sans', sans-serif;
     font-size: 18px;
 }
+.btn-active{
+    background: #29AEC8!important;
+    color: #FFF!important;
+    padding: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'Ropa Sans', sans-serif;
+}
 .cont-icon{
     position: absolute;
     z-index: 1;
